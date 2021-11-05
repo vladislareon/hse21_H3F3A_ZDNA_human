@@ -12,7 +12,7 @@
 
 # Гистограммы длин участков:
 
-<object data="github.com/vladislareon/hse21_H3F3A_ZDNA_human/blob/main/src/2.pdf" width="1000" height="1000" type='application/pdf'></object>
+xfun::embed_file("https://github.com/vladislareon/hse21_H3F3A_ZDNA_human/blob/main/src/2.pdf")
 
 [embed]https://github.com/vladislareon/hse21_H3F3A_ZDNA_human/blob/main/src/2.pdf[/embed]
 
