@@ -8,7 +8,7 @@
 
  ``` !zcat ENCFF066CSA.bed.gz | cut -f1-5 > H3F3A.ENCFF066CSA_hg19.bed```
 
-```!zcat ENCFF343MZY.bed.gz | cut -f1-5 > H3F3A.ENCFF066CSA_hg19.bed```
+```!zcat ENCFF343MZY.bed.gz | cut -f1-5 > H3F3A.ENCFF343MZY_hg19.bed```
 
 
 
