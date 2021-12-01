@@ -8,6 +8,8 @@
 
 # Сверточная нейронная сеть для распознования пересечения вторичной структуры и гистоновой метки:
 
+https://github.com/vladislareon/hse21_H3F3A_ZDNA_human/blob/main/CNN.ipynb
+
 
 
 
